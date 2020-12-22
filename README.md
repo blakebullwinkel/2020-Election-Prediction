@@ -2,7 +2,7 @@
 Predicting the Outcome of the 2020 Election: k-NN, logistic regression, LASSO/ridge regularization, model fairness evaluation
 
 ## Description of notebooks:
-- `ac209a_election_prediction_analysis.ipynb`: Contains the majority of our project work, including data processing, EDA, modeling, and forecasting.
+- `ac209a_election_prediction_analysis.ipynb`: Contains the majority of our project work, including data processing, EDA, modeling, and forecasting for 2020 Presidential and House of Representative races.
 - `ac209a_election_prediction_covid.ipynb`: Contains our analysis of unemployment data, which we used as a proxy for COVID-19 effects, and includes a number of helpful visualizations included in our report.
 
 ## Description of data:
